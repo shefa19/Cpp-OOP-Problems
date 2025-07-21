@@ -65,7 +65,7 @@ Hi! I’m Shefaul Islam Shefa, a passionate learner on the journey to becoming a
 Currently focusing on problem-solving and solidifying core programming foundations.
 
 🌐 Connect with Me
-🔗 LinkedIn (update if your LinkedIn link is different)
+🔗 LinkedIn (https://www.linkedin.com/in/sishefa19/)
 
 💻 GitHub Profile
 
