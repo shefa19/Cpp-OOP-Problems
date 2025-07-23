@@ -45,8 +45,11 @@ This repository contains **Object-Oriented Programming (OOP)** practice problems
 ## Purpose of This Repository
 
 ✅ Strengthening my **OOP concepts in C++**
+
 ✅ Practicing **problem-solving systematically**
+
 ✅ Tracking **learning progress**
+
 ✅ Helping beginners learn **OOP in C++** through practical examples
 
 ---
@@ -67,7 +70,9 @@ git clone https://github.com/shefa19/Cpp-OOP-Problems.git
 ## Future Plans
 
 ✅ Add **advanced OOP problem solutions**
+
 ✅ Add **README for each problem explaining the approach**
+
 ✅ Add **educational comments for clarity**
 
 ---
@@ -82,7 +87,9 @@ Currently focusing on **problem-solving** and **solidifying core programming fou
 ## Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)
+
 💻 [GitHub Profile](https://github.com/shefa19)
+
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
 
 ---
